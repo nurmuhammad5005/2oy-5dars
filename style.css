@@ -1,0 +1,55 @@
+.ne {
+    background-color: rgb(34, 0, 255);
+}
+
+button {
+    background-color: red;
+    border-radius: 30px;
+    border: none;
+}
+
+.no {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    width: 400px;
+    height: 200px;
+}
+
+iframe {
+    width: 400px;
+    height: 200px;
+}
+
+.ny {
+    display: flex;
+    justify-content: space-around
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    font-size: 18px;
+}
+
+.qwer{
+    background-color: rgb(34, 0, 255);
+}
+.qwerty{
+    width: 300px;
+    background-color: lawngreen;
+    border: 45px solid red;
+    border-radius: 40px;
+}
+.qwert{
+    display: flex;
+    justify-content: space-around;
+}
